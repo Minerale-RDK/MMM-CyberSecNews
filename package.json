@@ -1,0 +1,17 @@
+{
+  "name": "MMM-CyberSecNews",
+  "version": "1.0.0",
+  "description": "Hacker News cybersecurity digest powered by Claude AI for MagicMirror²",
+  "main": "MMM-CyberSecNews.js",
+  "author": "Minerale-RDK",
+  "license": "MIT",
+  "keywords": ["MagicMirror", "cybersecurity", "hacker news", "AI", "Claude"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Minerale-RDK/MMM-CyberSecNews"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "axios": "^1.7.9"
+  }
+}
